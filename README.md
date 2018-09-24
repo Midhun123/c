@@ -1,5 +1,5 @@
-# c
-c++ programm method
+# c++
+c++ info
 
 C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language.
 
